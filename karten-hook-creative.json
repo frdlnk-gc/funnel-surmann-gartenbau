@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-weiss-hd.png",
+ "foto": "img/foto-hd-pflasterarbeiten.jpg",
+ "fokus": [
+  0.5,
+  0.45
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#6E7E1D",
+ "headline": [
+  "FACH-/VORARBEITER",
+  "GALABAU"
+ ],
+ "headline_zusatz": "(m/w/d) · unbefristet",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Recklinghausen · Marl · Herten · Dorsten"
+}

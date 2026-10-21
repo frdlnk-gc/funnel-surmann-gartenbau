@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-weiss-hd.png",
+ "fotos": [
+  "img/foto-hd-stemmarbeiten.jpg",
+  "img/foto-hd-mauerarbeiten.jpg",
+  "img/foto-hd-naturstein.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.4
+  ],
+  [
+   0.5,
+   0.4
+  ],
+  [
+   0.5,
+   0.35
+  ]
+ ],
+ "primary": "#6E7E1D",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Fach-/Vorarbeiter",
+  "GaLaBau"
+ ],
+ "headline_zusatz": "(m/w/d) – Vollzeit, unbefristet",
+ "ort": "Recklinghausen · Marl · Herten · Dorsten",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}

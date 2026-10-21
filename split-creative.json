@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-pool-luftbild.jpg",
+  "primary": "#6E7E1D",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#6E7E1D",
+  "kicker": "WIR SUCHEN IN RECKLINGHAUSEN",
+  "headline": [
+   "Fach-/Vorarbeiter",
+   "GaLaBau (m/w/d)"
+  ],
+  "subline": "Gartengestaltung, Naturpool- und Poolbau – unbefristet.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-pflasterarbeiten.jpg",
+  "primary": "#6E7E1D",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN RECKLINGHAUSEN",
+  "headline": [
+   "Fach-/Vorarbeiter GaLaBau (m/w/d)"
+  ],
+  "checkliste": [
+   "Kurzer Freitag",
+   "Weihnachts- & Urlaubsgeld",
+   "Voll ausgestatteter Firmenwagen"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.35
+  ]
+ }
+]
