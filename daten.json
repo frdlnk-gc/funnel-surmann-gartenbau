@@ -1,0 +1,109 @@
+{
+ "firma": "Surmann Garten- und Landschaftsbau",
+ "stelle": "Fach-/Vorarbeiter GaLaBau (m/w/d)",
+ "ort": "Recklinghausen",
+ "plz": "45659",
+ "branche": "galabau",
+ "farbe_primary": "#6E7E1D",
+ "farbe_secondary": "#1E1E1E",
+ "region_badge": "Recklinghausen & Umgebung",
+ "benefit_top": "Kurzer Freitag & Weihnachtsgeld",
+ "benefits": [
+  "Kurzer Freitag",
+  "Weihnachtsgeld & Urlaubsgeld",
+  "Tarifliche und leistungsorientierte Bezahlung",
+  "Voll ausgestatteter Firmenwagen",
+  "Moderne Maschinen, Geräte und Fahrzeuge sowie Arbeitskleidung",
+  "Unbefristeter Arbeitsvertrag nach der Probezeit",
+  "Betriebliche Altersvorsorge & betriebliche Krankenversicherung",
+  "Jobrad-Leasing & vermögenswirksame Leistungen",
+  "Interne Karrierechancen & Kostenübernahme für Zertifizierungen",
+  "Familiäres Arbeitsklima im inhabergeführten Betrieb"
+ ],
+ "aufgaben": [
+  "Du leitest und organisierst Baustellen, koordinierst die Arbeitsabläufe und führst dein Baustellenteam",
+  "Du setzt Pflaster-, Terrassen- und Natursteinarbeiten fachgerecht um, pflanzt und legst Rasen- und Grünflächen an",
+  "Du arbeitest an anspruchsvollen Gartengestaltungen, Naturpool- und Poolbauprojekten mit",
+  "Du misst Baustellen mit dem digitalen Roverstab auf und dokumentierst Tagesberichte und Arbeitszeiten per iPad"
+ ],
+ "anforderung": "Ausbildung zum Gärtner Fachrichtung Garten- und Landschaftsbau, Berufserfahrung und Führerschein Klasse B/BE oder C/CE. Du musst nicht alles können – wichtig sind Motivation, Können und die Bereitschaft, Neues zu lernen.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Ausbildung als Gärtner GaLaBau",
+   "icon": "🌳",
+   "qualifikationen": [
+    {
+     "label": "Schon als Vorarbeiter tätig",
+     "icon": "🦺"
+    },
+    {
+     "label": "Fachkraft mit Berufserfahrung",
+     "icon": "💪"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🎓"
+    },
+    {
+     "label": "Frisch ausgelernt",
+     "icon": "🌱"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Berufserfahrung im GaLaBau",
+     "icon": "🌳"
+    },
+    {
+     "label": "Berufserfahrung in anderem Bereich",
+     "icon": "🔧"
+    },
+    {
+     "label": "Noch keine Berufserfahrung",
+     "icon": "🌱"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "2018",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "42",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "✓",
+    "label": "Meisterbetrieb"
+   }
+  ],
+  "text": "Inhabergeführter Meisterbetrieb in Recklinghausen-Speckhorn: vom klassischen Gartenbau über Pools, Naturpools und Schwimmteiche bis zu Terrassen, Natursteinarbeiten und Gartenpflege – für Privatkunden, Architekturbüros, Eigentümergemeinschaften und öffentliche Auftraggeber."
+ },
+ "kunde_tab": "28 Surmann GaLaBau",
+ "quelle": "https://surmann-gartenbau.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Recklinghausen"
+ },
+ "hero_bild": "img/hero-pflasterarbeiten.jpg",
+ "bilder": [
+  "img/f1-stemmarbeiten.jpg",
+  "img/f2-mauerarbeiten.jpg",
+  "img/f3-naturstein.jpg",
+  "img/f4-pool-luftbild.jpg",
+  "img/f5-pool-abend.jpg",
+  "img/f6-terrasse.jpg",
+  "img/f7-blockstufen.jpg",
+  "img/f8-klinkerweg.jpg",
+  "img/f9-gartendusche.jpg"
+ ]
+}
